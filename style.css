@@ -1,0 +1,13 @@
+body{
+    font-family: 'Amiri', serif;
+}
+*{
+    margin: 0%;
+    padding: 0%;
+}
+
+#ville  {
+    padding-top: 3%;
+    text-align: center;
+}
+
